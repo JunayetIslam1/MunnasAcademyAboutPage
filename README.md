@@ -1,4 +1,4 @@
-# Munna's Academy — About page (React + Tailwind)
+  Munna's Academy — About page (Junayet_Balerion_Technology)
 
 ```
 npm install
